@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" preserveAspectRatio="none">
+<defs>
+ <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e9d3b9" opacity=".07"/></pattern>
+ <g id="palm" stroke="#24252d" stroke-width="4" stroke-linejoin="round"><path d="M0 0q15-42 0-75" fill="none" stroke="#c99366" stroke-width="8"/><path d="M0-74q-30-20-42 6q21-9 42-6q-7-37-28-25q17 6 28 25q15-33 31-22q-20 10-31 22q29-19 44 6q-21-7-44-6" fill="#81a889"/></g>
+ <g id="cactus" fill="#7e9f7b" stroke="#2b3034" stroke-width="3"><path d="M-7 0v-51a7 7 0 0 1 14 0V0z"/><path d="M-6-23h-13q-10 0-10-10v-15q0-8 8-8v20h15M6-35h12v-23q8-8 10 0v25q0 10-10 10H6"/></g>
+ <g id="mountain" stroke="#24252d" stroke-width="4" stroke-linejoin="round"><path d="M-50 15L0-70l50 85z" fill="#8c8d9c"/><path d="M-19-39L0-70l22 37-20-5-13 12z" fill="#f1e9d7"/></g>
+ <g id="boat" stroke="#263943" stroke-width="3"><path d="M-22 0h45l-9 13h-24z" fill="#da8266"/><path d="M2-36V0h-21z" fill="#f5e6c5"/></g>
+ <g id="factory" stroke="#292631" stroke-width="4"><path d="M-41 15v-44l27 13 0-13 26 13V-2h27v17z" fill="#b7a080"/><path d="M20-2v-62h14V-2" fill="#8a8490"/><path d="M-28-7h12v12h-12M-4-7H8V5H-4" fill="#f1c267"/><path d="M28-74q-18-9-8-22q19-12 31 0q16-4 15 10q-4 13-38 12" fill="#626072"/></g>
+</defs>
+<rect width="1000" height="600" fill="#302c3b"/>
+<path d="M0 434Q132 492 268 410Q366 382 473 452Q551 476 603 422Q659 369 719 425Q788 470 854 418Q919 397 1000 462V600H0Z" fill="#53848b" stroke="#b9c8b1" stroke-width="6"/>
+<path d="M0 451Q133 510 270 428Q370 400 475 470Q551 493 610 440Q660 386 719 443Q788 487 854 436Q919 415 1000 480" fill="none" stroke="#74a0a2" stroke-width="3"/>
+<path d="M252 320q86-92 224-110q-16 68 46 132l-47 85q-95-58-184 10z" fill="#72594e" opacity=".4"/>
+<path d="M475 184q136-120 219-101q24 43 32 141l-31 126-134-54z" fill="#595668" opacity=".6"/>
+<rect width="1000" height="600" fill="url(#dots)"/>
+<g stroke-linecap="round" stroke-linejoin="round" fill="none">
+ <path d="M80 438Q138 425 220 390T350 216Q397 202 490 354T610 150Q650 89 710 396T820 252Q864 217 910 468" stroke="#211f2c" stroke-width="30"/>
+ <path d="M80 438Q138 425 220 390T350 216Q397 202 490 354T610 150Q650 89 710 396T820 252Q864 217 910 468" stroke="#666170" stroke-width="20"/>
+ <path d="M80 438Q138 425 220 390T350 216Q397 202 490 354T610 150Q650 89 710 396T820 252Q864 217 910 468" stroke="#e6d8b6" stroke-width="3" stroke-dasharray="10 12"/>
+</g>
+<use href="#palm" transform="translate(137 364) scale(.7)"/><use href="#palm" transform="translate(259 460) scale(.6)"/><use href="#palm" transform="translate(486 466) scale(.65)"/>
+<use href="#cactus" transform="translate(293 288)"/><use href="#cactus" transform="translate(410 183) scale(.8)"/><use href="#cactus" transform="translate(538 265) scale(.65)"/>
+<use href="#mountain" transform="translate(565 109) scale(.65)"/><use href="#mountain" transform="translate(663 76) scale(.9)"/>
+<use href="#factory" transform="translate(801 191) scale(.75)"/><use href="#factory" transform="translate(922 272) scale(.65)"/>
+<g transform="translate(736 315)" stroke="#292631" stroke-width="4"><path d="M-17 15l5-71h24l6 71z" fill="#e0d7b8"/><path d="M-15-57l15-20 16 20z" fill="#dd8067"/><path d="M-12-45h24v15h-24" fill="#f0bb63"/><path d="M20-45l39-12v42z" fill="#e6c87e" opacity=".18"/></g>
+<use href="#boat" transform="translate(112 535) scale(.75)"/><use href="#boat" transform="translate(388 530) scale(.65)"/><use href="#boat" transform="translate(671 512) scale(.8)"/><use href="#boat" transform="translate(880 553) scale(.65)"/>
+<g transform="translate(460 94)" stroke="#e8c47d" stroke-width="3"><circle r="19" fill="#e8c47d"/><path d="M0-36v9M0 27v9M-36 0h9M27 0h9M-26-26l7 7M19 19l7 7M-26 26l7-7M19-19l7-7"/></g>
+<g transform="translate(81 104)" fill="none" stroke="#a28b89" stroke-width="2"><circle r="26"/><path d="M0-35V35M-35 0H35"/><path d="M0-24L7 7l-7-4-7 4z" fill="#eac98a"/></g>
+<g stroke="#a4c5bb" stroke-width="2" fill="none" opacity=".6"><path d="M40 576q9 8 18 0t18 0M228 555q9 8 18 0t18 0M520 545q9 8 18 0t18 0M782 572q9 8 18 0t18 0M930 526q9 8 18 0t18 0"/></g>
+</svg>

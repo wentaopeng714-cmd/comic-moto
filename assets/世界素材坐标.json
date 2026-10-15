@@ -1,0 +1,346 @@
+{
+  "traffic": {
+    "file": "assets/traffic/traffic-atlas.png",
+    "size": [
+      2172,
+      724
+    ],
+    "frames": [
+      {
+        "rect": [
+          0,
+          0,
+          724,
+          724
+        ],
+        "alphaBBox": [
+          60,
+          182,
+          655,
+          643
+        ],
+        "visibleAlphaThreshold": 32
+      },
+      {
+        "rect": [
+          724,
+          0,
+          724,
+          724
+        ],
+        "alphaBBox": [
+          63,
+          165,
+          661,
+          643
+        ],
+        "visibleAlphaThreshold": 32
+      },
+      {
+        "rect": [
+          1448,
+          0,
+          724,
+          724
+        ],
+        "alphaBBox": [
+          71,
+          112,
+          655,
+          643
+        ],
+        "visibleAlphaThreshold": 32
+      }
+    ]
+  },
+  "props": {
+    "file": "assets/props/props-atlas.png",
+    "size": [
+      1774,
+      887
+    ],
+    "frames": [
+      {
+        "rect": [
+          110,
+          50,
+          290,
+          415
+        ],
+        "alphaBBox": [
+          34,
+          33,
+          252,
+          388
+        ],
+        "visibleAlphaThreshold": 32,
+        "name": "仙人掌"
+      },
+      {
+        "rect": [
+          455,
+          45,
+          385,
+          420
+        ],
+        "alphaBBox": [
+          31,
+          20,
+          351,
+          393
+        ],
+        "visibleAlphaThreshold": 32,
+        "name": "棕榈"
+      },
+      {
+        "rect": [
+          850,
+          295,
+          435,
+          175
+        ],
+        "alphaBBox": [
+          36,
+          24,
+          408,
+          150
+        ],
+        "visibleAlphaThreshold": 32,
+        "name": "岩石"
+      },
+      {
+        "rect": [
+          1300,
+          200,
+          440,
+          270
+        ],
+        "alphaBBox": [
+          19,
+          25,
+          416,
+          242
+        ],
+        "visibleAlphaThreshold": 32,
+        "name": "仓库"
+      },
+      {
+        "rect": [
+          130,
+          480,
+          235,
+          360
+        ],
+        "alphaBBox": [
+          31,
+          21,
+          202,
+          342
+        ],
+        "visibleAlphaThreshold": 32,
+        "name": "路牌"
+      },
+      {
+        "rect": [
+          550,
+          470,
+          245,
+          370
+        ],
+        "alphaBBox": [
+          17,
+          16,
+          212,
+          349
+        ],
+        "visibleAlphaThreshold": 32,
+        "name": "路灯"
+      },
+      {
+        "rect": [
+          835,
+          565,
+          470,
+          275
+        ],
+        "alphaBBox": [
+          23,
+          21,
+          438,
+          254
+        ],
+        "visibleAlphaThreshold": 32,
+        "name": "集装箱"
+      },
+      {
+        "rect": [
+          1320,
+          640,
+          420,
+          200
+        ],
+        "alphaBBox": [
+          25,
+          23,
+          376,
+          178
+        ],
+        "visibleAlphaThreshold": 32,
+        "name": "灌木"
+      }
+    ]
+  },
+  "front": {
+    "file": "assets/traffic/front-atlas.png",
+    "size": [
+      2172,
+      724
+    ],
+    "frames": [
+      {
+        "rect": [
+          0,
+          0,
+          724,
+          724
+        ],
+        "alphaBBox": [
+          46,
+          162,
+          671,
+          655
+        ],
+        "visibleAlphaThreshold": 32
+      },
+      {
+        "rect": [
+          724,
+          0,
+          724,
+          724
+        ],
+        "alphaBBox": [
+          22,
+          136,
+          676,
+          655
+        ],
+        "visibleAlphaThreshold": 32
+      },
+      {
+        "rect": [
+          1448,
+          0,
+          724,
+          724
+        ],
+        "alphaBBox": [
+          26,
+          56,
+          649,
+          655
+        ],
+        "visibleAlphaThreshold": 32
+      }
+    ]
+  },
+  "vehicles": {
+    "file": "assets/vehicles/vehicles-atlas.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "frames": [
+      {
+        "rect": [
+          0,
+          0,
+          512,
+          550
+        ],
+        "alphaBBox": [
+          113,
+          42,
+          427,
+          519
+        ],
+        "visibleAlphaThreshold": 32
+      },
+      {
+        "rect": [
+          512,
+          0,
+          512,
+          550
+        ],
+        "alphaBBox": [
+          89,
+          42,
+          423,
+          518
+        ],
+        "visibleAlphaThreshold": 32
+      },
+      {
+        "rect": [
+          1024,
+          0,
+          512,
+          550
+        ],
+        "alphaBBox": [
+          66,
+          42,
+          415,
+          519
+        ],
+        "visibleAlphaThreshold": 32
+      },
+      {
+        "rect": [
+          0,
+          550,
+          512,
+          474
+        ],
+        "alphaBBox": [
+          31,
+          30,
+          505,
+          398
+        ],
+        "visibleAlphaThreshold": 32
+      },
+      {
+        "rect": [
+          512,
+          550,
+          512,
+          474
+        ],
+        "alphaBBox": [
+          14,
+          29,
+          504,
+          399
+        ],
+        "visibleAlphaThreshold": 32
+      },
+      {
+        "rect": [
+          1024,
+          550,
+          512,
+          474
+        ],
+        "alphaBBox": [
+          17,
+          30,
+          489,
+          398
+        ],
+        "visibleAlphaThreshold": 32
+      }
+    ]
+  }
+}
